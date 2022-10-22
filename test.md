@@ -23,5 +23,11 @@
 ![Sample_text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/617cf365983491.5b06a7ae91e07.jpg)
 =======
 Also Tanos
+<<<<<<< HEAD
 >>this is _**ahother**_ __cite__ *line* 
 ![Another useless image](https://besthqwallpapers.com/Uploads/6-5-2018/51319/natsu-dragneel-team-natsu-protagonist-manga-art.jpg)
+=======
+
+preparing for _**_conflict_**
+>>cite *level 2* on __branch3__
+>>>>>>> homework_branch_3
