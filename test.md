@@ -19,10 +19,4 @@ Another Tanos
 =======
 Also Tanos
 
-![Alter_text](https://www.zbrushcentral.com/uploads/default/optimized/4X/5/8/a/58a1d7bc3927faf711ae8af8c79c3c7e04efcdd2_2_1024x726.png)
->>>>>>> backup_branch_2
-=======
-Танос
 
-![Movie1](https://worldwebwar.ru/wp-content/uploads/2020/05/thanos-intro.jpg)
->>>>>>> backup_branch_1
