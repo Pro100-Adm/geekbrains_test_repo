@@ -33,5 +33,5 @@ Also Tanos
 2. Numbered sample 2
 * marked sample 1
 * marked sample 2
->>>>>>> homework_branch_4
+
 >>new_**cite**
