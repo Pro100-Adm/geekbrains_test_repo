@@ -24,10 +24,13 @@
 =======
 Also Tanos
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>this is _**ahother**_ __cite__ *line* 
 ![Another useless image](https://besthqwallpapers.com/Uploads/6-5-2018/51319/natsu-dragneel-team-natsu-protagonist-manga-art.jpg)
-=======
 
-preparing for _**_conflict_**
->>cite *level 2* on __branch3__
->>>>>>> homework_branch_3
+**Sample_git_list** 
+1. Numbered sample 1
+2. Numbered sample 2
+* marked sample 1
+* marked sample 2
+>>>>>>> homework_branch_4
